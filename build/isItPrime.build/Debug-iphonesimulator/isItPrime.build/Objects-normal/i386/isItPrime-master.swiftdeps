@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "b3ff90c721756e62e559bad50396a198"
+build_time: [526084118, 455531000]
+inputs:
+  "/Users/amanda/Desktop/desktop/Swift Course/isItPrime/isItPrime/ViewController.swift": [526083665, 0]
+  "/Users/amanda/Desktop/desktop/Swift Course/isItPrime/isItPrime/AppDelegate.swift": [526083665, 0]
